@@ -5,8 +5,8 @@ Dieses repository ist im Rahmen meiner Masterarbeit "Transformer-basierte Method
 
 Es enthält die gesamten Skripte, die dafür benutzt wurden. Nicht eingeschlossen sind die Datasets, die generierten Bilder sowie die tranierten Transformer-Modelle.
 
-Dieses Projekt ist lizenziert unter der Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Germany License.
-Um eine Kopie dieser Lizenz zu sehen, besuchen Sie Creative Commons Lizenz.
+Beispiel eines generierten Bildes und dem zugrunde liegenden Originalen Bild:
+
 
 Original: [Coin 10576](https://www.corpus-nummorum.eu/index.php/coins/10576)
 
