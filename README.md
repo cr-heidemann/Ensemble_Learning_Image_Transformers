@@ -3,7 +3,7 @@ This repo was created for my master thesis about Image Generation and Ensemble L
 
 Dieses repository ist im Rahmen meiner Masterarbeit "Transformer-basierte Methoden und Ensemble Learning zur Klassifikation von antiken Münzbildern" entstanden.
 
-Es enthält die gesamten Skripte, die dafür benutzt wurden. Nicht eingeschlossen sind die Datasets, die generierten Bilder sowie die tranierten Transformer-Modelle.
+Es enthält die gesamten Skripte, die dafür benutzt wurden. Nicht eingeschlossen sind die Datasets, die generierten Bilder sowie die trainierten Transformer-Modelle.
 
 Beispiel eines generierten Bildes und dem zugrunde liegenden Originalen Bild:
 
